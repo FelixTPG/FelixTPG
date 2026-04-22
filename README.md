@@ -18,8 +18,13 @@ Outside of software development, I enjoy photography and playing handball. 🤾�
 
 ## ⚙️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,linux,docker,git,github,mysql,nginx,mongodb,redis,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,linux,docker,git,github,mysql,nginx,mongodb,tailwind,apple,discord,cloudflare" />
+</p>
+
+<p align="center">
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixTPG&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=FelixTPG&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
