@@ -31,8 +31,5 @@ Outside of software development, I enjoy photography and playing handball. 🤾�
 ## 📫 Contact
 
 * Most communication happens through projects / repositories
+* You can reach out to me on discord @felixtpg
 * Best way to reach me is through my socials or via [me@xilef.dev](mailto:me@xilef.dev)
-
-## ⚡ Fun Fact
-
-I’d rather spend 3 hours optimizing a system than letting it “just work somehow” just because of the urge to finish it.
